@@ -7,3 +7,4 @@ Claim Receipts never checks out, builds or runs the code in a pull request. It o
 - It works under `pull_request_target` for fork pull requests because it does not execute pull request code. Do not add a checkout of the pull request's head to such a workflow.
 
 To report a vulnerability, open a private security advisory on this repository.
+
